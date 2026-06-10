@@ -35,10 +35,10 @@ El usuario puede optar por ver anuncios de forma voluntaria para obtener una vel
 
 Al utilizar la aplicación, Google y sus socios pueden recopilar información técnica del dispositivo y datos relacionados con la interacción con anuncios, incluyendo:
 
-Identificadores publicitarios del dispositivo
-Dirección IP aproximada
-Información del dispositivo (modelo, sistema operativo, idioma)
-Datos de interacción con anuncios
+* Identificadores publicitarios del dispositivo.
+* Dirección IP aproximada.
+* Información del dispositivo (modelo, sistema operativo, idioma).
+* Datos de interacción con anuncios.
 
 Esta recopilación es realizada directamente por Google conforme a sus propias políticas de privacidad.
 
@@ -46,8 +46,8 @@ Esta recopilación es realizada directamente por Google conforme a sus propias p
 
 La aplicación utiliza servicios proporcionados por terceros, incluyendo:
 
-Google AdMob
-Servicios de Google Play (Google Play Services)
+* Google AdMob
+* Servicios de Google Play (Google Play Services)
 
 Estos servicios pueden recopilar y procesar información de acuerdo con sus propias políticas de privacidad.
 
@@ -55,8 +55,8 @@ Estos servicios pueden recopilar y procesar información de acuerdo con sus prop
 
 Para más información sobre cómo Google maneja los datos en sus servicios, puedes consultar:
 
-https://policies.google.com/privacy
-https://support.google.com/admob/answer/6128543
+* https://policies.google.com/privacy
+* https://support.google.com/admob/answer/6128543
 
 ## Seguridad
 
