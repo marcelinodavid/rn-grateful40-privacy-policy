@@ -64,7 +64,8 @@ Aunque la aplicación no recopila información personal identificable, se implem
 
 ## Menores de edad
 
-Grateful 40 está dirigida principalmente a usuarios mayores de 13 años. No recopilamos conscientemente información de menores de edad.
+Grateful 40 está dirigida exclusivamente a usuarios mayores de 18 años.
+La aplicación no está diseñada para menores de edad ni recopila intencionalmente información de usuarios menores.
 
 ## Cambios a esta política
 
