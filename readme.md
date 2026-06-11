@@ -22,8 +22,8 @@ Toda la interacción dentro de la aplicación (como el inicio de sesión de resp
 
 Grateful 40 almacena únicamente información local en el dispositivo del usuario para permitir el funcionamiento de la aplicación, incluyendo:
 
-Registro simbólico de progreso mediante “coins” (hoy, total y tiempo acumulado)
-Cantidad de velitas disponibles y estado de la velita diaria (reclamada o no)
+* Registro simbólico de progreso mediante “coins” (hoy, total y tiempo acumulado)
+* Cantidad de velitas disponibles y estado de la velita diaria (reclamada o no)
 
 Esta información no se envía a servidores externos ni se comparte con terceros.
 
